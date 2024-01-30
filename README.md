@@ -6,6 +6,6 @@ This web application is developed using ReactJS to store files uploaded by users
 → PDF
 → Image
 → PPT
-→ Excel
+→ csv and other supported files
 
 (X) Note: mp3, mp4 files cannot be uploaded.
